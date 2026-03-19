@@ -1,39 +1,39 @@
 # Hi, I'm Eulices Lopez
 
-Software developer focused on AI products, Swift/iOS apps, automation systems, and production-ready tooling.
+Software developer building AI products, Swift/iOS apps, and operational tooling.
 
-I build practical software across:
-- AI-powered applications
-- iOS / SwiftUI products
-- automation and developer tooling
-- self-hosted and operational systems
+My work sits at the intersection of:
+- AI-powered product development
+- iOS / SwiftUI applications
+- automation and workflow systems
+- self-hosted and operational infrastructure
 
 ## Current focus
 - Building original AI and iOS product lines
-- Contributing upstream to open-source projects
-- Turning internal prototypes into polished, public-facing software
+- Contributing upstream to open-source ecosystems
+- Hardening internal product codebases into cleaner, public-facing engineering work
 
 ## Selected work
-- **MindTime** — self-hosted Leantime deployment and operational infrastructure work
 - **MindX** — original AI product work under active development and refinement
 - **GateMate** — original Swift/iOS product work in active development
 - **edwin-ai** — original AI application product line in active development
+- **MindTime** — self-hosted Leantime deployment and operational infrastructure work
 - **OpenClaw** — active open-source contributions with review-driven iteration
-- **Omi** — active open-source contribution work
+- **Omi** — active open-source contributions, shipped ecosystem apps, and real-world workflow usage
 
-## Open-source contributions
+## Open-source and ecosystem work
 - **OpenClaw** — active contributor
-- **Omi** — active contributor
+- **Omi** — merged upstream contributions and shipped apps in the Omi ecosystem
 
 ## What I care about
 - shipping real products, not just demos
 - strong review discipline
 - clear architecture
 - practical automation
-- clean developer workflows
+- maintainable developer workflows
 
 ## Public profile note
-My public GitHub is intentionally curated to emphasize active contributions, practical systems work, and product lines I’m developing toward a stronger public release.
+My public GitHub is intentionally curated to emphasize active contributions, practical systems work, and product lines I’m developing toward stronger public release quality.
 
 ## Tech
 - Swift / SwiftUI
