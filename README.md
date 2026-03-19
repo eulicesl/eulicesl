@@ -14,10 +14,10 @@ I build practical software across:
 - Turning internal prototypes into polished, public-facing software
 
 ## Selected work
-- **GateMate** — original Swift/iOS product work
-- **edwin-ai** — original AI application product line
-- **MindX** — original product work evolving beyond its starter/template base
 - **MindTime** — self-hosted Leantime deployment and infrastructure setup
+- **MindX** — original AI product work under active development and refinement
+- **GateMate** — original Swift/iOS product work in active development
+- **edwin-ai** — original AI application product line in active development
 - **OpenClaw** — active open-source contributions with review-driven iteration
 - **Omi** — active open-source contribution work
 
@@ -31,6 +31,9 @@ I build practical software across:
 - clear architecture
 - practical automation
 - clean developer workflows
+
+## Public profile note
+My public GitHub is intentionally curated to emphasize active contributions, practical systems work, and product lines I’m developing toward a stronger public release.
 
 ## Tech
 - Swift / SwiftUI
