@@ -9,17 +9,17 @@ I build practical software across:
 - self-hosted and operational systems
 
 ## Current focus
-- Building and refining original AI and iOS products
+- Building original AI and iOS product lines
 - Contributing upstream to open-source projects
-- Turning internal prototypes into polished, production-grade software
+- Turning internal prototypes into polished, public-facing software
 
-## Selected projects
-- **GateMate** — native Swift app product work
-- **edwin-ai** — AI application product line
-- **MindX** — original product work evolving beyond its initial starter/template base
-- **MindTime** — self-hosted deployment and infrastructure setup
-- **OpenClaw contributions** — upstream fixes, review-driven improvements, CI-aware PR workflow
-- **Omi contributions** — active contribution work and product exploration
+## Selected work
+- **GateMate** — original Swift/iOS product work
+- **edwin-ai** — original AI application product line
+- **MindX** — original product work evolving beyond its starter/template base
+- **MindTime** — self-hosted Leantime deployment and infrastructure setup
+- **OpenClaw** — active open-source contributions with review-driven iteration
+- **Omi** — active open-source contribution work
 
 ## Open-source contributions
 - **OpenClaw** — active contributor
