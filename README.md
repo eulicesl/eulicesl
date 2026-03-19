@@ -14,7 +14,7 @@ I build practical software across:
 - Turning internal prototypes into polished, public-facing software
 
 ## Selected work
-- **MindTime** — self-hosted Leantime deployment and infrastructure setup
+- **MindTime** — self-hosted Leantime deployment and operational infrastructure work
 - **MindX** — original AI product work under active development and refinement
 - **GateMate** — original Swift/iOS product work in active development
 - **edwin-ai** — original AI application product line in active development
