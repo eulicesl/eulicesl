@@ -17,9 +17,9 @@ My work sits at the intersection of:
 - **MindX** — original AI product work under active development and refinement
 - **GateMate** — original Swift/iOS product work in active development
 - **edwin-ai** — original AI application product line in active development
-- **MindTime** — self-hosted Leantime deployment and operational infrastructure work
 - **OpenClaw** — active open-source contributions with review-driven iteration
 - **Omi** — active open-source contributions, shipped ecosystem apps, and real-world workflow usage
+- **MindTime** — deployment and self-hosting work built around Leantime infrastructure, not original product authorship
 
 ## Open-source and ecosystem work
 - **OpenClaw** — active contributor
