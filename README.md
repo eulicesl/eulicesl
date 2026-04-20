@@ -1,39 +1,31 @@
 # Eulices Lopez
 
+**Founding Engineer · Forward Deployed · Burlington, NC**
 
-AI Systems Engineer building production AI systems and automation.
+I find the problem, ship the product, and own it in production.
 
+At **Graham Dermatology** — a clinic seeing 70 patients a day — I identified the clinical documentation bottleneck, built an AI scribe against it, and got it [featured as a customer case study on Omi](https://www.omi.me/blogs/case-studies/how-graham-dermatology-uses-omi-to-transform-medical-scribing-and-patient-care). Same-day chart completion moved from **60% → 95%**. Note error rate dropped from **15–20% → <3%**.
 
-## What I Do
-- Build AI applications using Python, FastAPI, and LLM/NLP systems
-- Design scalable systems for real-world workflows
-- Create automation pipelines that reduce manual work and improve accuracy
-- Ship cross-platform apps in TypeScript/React Native, Swift/SwiftUI, and Python
+Since then: **six AI products shipped** — four Omi agents (**2,200+ users**) and two native iOS apps in public beta on TestFlight.
 
+**Portfolio →** [eulices-portfolio.vercel.app](https://eulices-portfolio.vercel.app)
 
-## Key Impact
-- AI applications used by 3,000+ users
-- Improved workflow completion from 60% → 95%
-- Reduced error rates to <3%
+---
 
+### What I'm shipping
 
-## Tech Stack
-Python • SQL • FastAPI • PostgreSQL • TypeScript • React • Next.js • React Native  
-Swift • SwiftUI • OpenAI • Claude • LangChain • RAG • Docker • GCP  
+- **[Lumen](https://github.com/eulicesl/lumen)** — Privacy-first native iOS AI assistant. SwiftUI, iOS 26, Apple Intelligence on-device + optional Ollama. [Join the beta →](https://testflight.apple.com/join/v8mYExkK)
+- **N.O.V.A.** — Private-by-default iOS AI assistant. Dual on-device inference (Apple Foundation Models + Ollama), 8 custom Swift modules, ~5,000 LOC of native code. Source private while I finish cleaning it up; happy to share during interviews. [Join the beta →](https://testflight.apple.com/join/FnAEfXf2)
+- **NEVA Dermatology & Cosmetic Assistants** — Clinical AI scribes on Omi, integrated with the EZDERM EMR. 200+ installs combined, 5.0★.
+- **Brain** — Personal AI memory assistant that turns conversations into a searchable knowledge graph. 900+ installs.
+- **J.A.R.V.I.S.** — Voice-activated, context-aware AI companion. 1,100+ installs.
 
+### Stack
 
-## Featured Work
-- **NEVA** — AI medical documentation system (featured in official Omi case study)
-- **J.A.R.V.I.S.** — Voice-activated AI productivity assistant (1,110+ installs)
-- **NanoAI** — Cross-platform AI chat client (Expo, React Native, Swift)
-- **Lumen AI** — Native iOS/macOS AI platform (Swift, SwiftUI)
+Python · FastAPI · LLMs / Prompt Engineering · Swift · SwiftUI · React Native · Expo · TypeScript · Apple Foundation Models · Ollama · Vision / OCR · EventKit · Live Activities · HIPAA workflows · EMR integration
 
+### Open to
 
-## Open Source
-- Contributor to **Omi AI Platform** — production features in Dart/Flutter, Python, TypeScript
-- Active contributor to **OpenClaw** — AI assistant platform
+Founding Engineer · Forward Deployed Engineer · Senior Applied AI roles. Remote or Triangle-area hybrid.
 
-
-## Contact
-[LinkedIn](http://www.linkedin.com/in/euliceslopez)
-
+**Reach me →** [leulices@gmail.com](mailto:leulices@gmail.com) · [LinkedIn](https://www.linkedin.com/in/euliceslopez) · [Portfolio](https://eulices-portfolio.vercel.app)
