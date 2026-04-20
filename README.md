@@ -16,7 +16,7 @@ Since then: **six AI products shipped** — four Omi agents (**2,200+ users**) a
 
 - **[Lumen](https://github.com/eulicesl/lumen)** — Privacy-first native iOS AI assistant. SwiftUI, iOS 26, Apple Intelligence on-device + optional Ollama. [Join the beta →](https://testflight.apple.com/join/v8mYExkK)
 - **N.O.V.A.** — Private-by-default iOS AI assistant. Dual on-device inference (Apple Foundation Models + Ollama), 8 custom Swift modules, ~5,000 LOC of native code. Source private while I finish cleaning it up; happy to share during interviews. [Join the beta →](https://testflight.apple.com/join/FnAEfXf2)
-- **NEVA Dermatology & Cosmetic Assistants** — Clinical AI scribes on Omi, integrated with the EZDERM EMR. 200+ installs combined, 5.0★.
+- **NEVA Dermatology & Cosmetic Assistants** — Clinical AI scribes on Omi, with notes formatted to match the clinic's EZDERM EMR templates. 200+ installs combined, 5.0★.
 - **Brain** — Personal AI memory assistant that turns conversations into a searchable knowledge graph. 900+ installs.
 - **J.A.R.V.I.S.** — Voice-activated, context-aware AI companion. 1,100+ installs.
 
