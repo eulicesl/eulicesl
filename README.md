@@ -12,11 +12,9 @@ AI Systems Engineer building production AI systems and automation.
 
 
 ## Key Impact
-- AI applications used by 1,900+ users
+- AI applications used by 3,000+ users
 - Improved workflow completion from 60% → 95%
 - Reduced error rates to <3%
-- 1,800+ GitHub contributions across 97 repositories
-- 466 pull requests
 
 
 ## Tech Stack
@@ -26,15 +24,14 @@ Swift • SwiftUI • OpenAI • Claude • LangChain • RAG • Docker • GCP
 
 ## Featured Work
 - **NEVA** — AI medical documentation system (featured in official Omi case study)
-- **J.A.R.V.I.S.** — Voice-activated AI productivity assistant (710+ installs)
+- **J.A.R.V.I.S.** — Voice-activated AI productivity assistant (1,110+ installs)
 - **NanoAI** — Cross-platform AI chat client (Expo, React Native, Swift)
-- **MindX AI** — Native iOS/macOS AI knowledge platform (Swift, SwiftUI)
+- **Lumen AI** — Native iOS/macOS AI platform (Swift, SwiftUI)
 
 
 ## Open Source
 - Contributor to **Omi AI Platform** — production features in Dart/Flutter, Python, TypeScript
 - Active contributor to **OpenClaw** — AI assistant platform
-- Maintain forks of Open-WebUI, AppFlowy, Notesnook, PaddleOCR, and 70+ projects
 
 
 ## Contact
