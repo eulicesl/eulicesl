@@ -22,7 +22,7 @@ Since then: **six AI products shipped** — four Omi agents (**2,200+ users**) a
 
 ### Stack
 
-Python · FastAPI · LLMs / Prompt Engineering · Swift · SwiftUI · React Native · Expo · TypeScript · Apple Foundation Models · Ollama · Vision / OCR · EventKit · Live Activities · HIPAA workflows · EMR integration
+Python · FastAPI · LLMs / Prompt Engineering · Swift · SwiftUI · React Native · Expo · TypeScript · Apple Foundation Models · Ollama · Vision / OCR · EventKit · Live Activities · HIPAA workflows · EMR-compatible output
 
 ### Open to
 
