@@ -4,7 +4,7 @@
 
 Most of my recent work lives at the intersection of AI and everyday workflows. At **Graham Dermatology** — a clinic seeing 70 patients a day — I built an AI scribe that became a [customer case study on Omi](https://www.omi.me/blogs/case-studies/how-graham-dermatology-uses-omi-to-transform-medical-scribing-and-patient-care). Same-day chart completion went from 60% to 95%, and note error rate dropped from 15–20% to under 3%.
 
-Outside of that, I've shipped six AI products — four Omi agents (2,200+ users combined) and two native iOS apps currently in public beta on TestFlight.
+Outside of that, I've shipped six AI products — four Omi agents (3,000+ users combined) and two iOS apps currently in public beta on TestFlight.
 
 **Portfolio →** [eulices-portfolio.vercel.app](https://eulices-portfolio.vercel.app)
 
