@@ -1,4 +1,3 @@
-# Eulices Lopez
 
 **AI Systems Architect at Relitix · Burlington, NC**
 
