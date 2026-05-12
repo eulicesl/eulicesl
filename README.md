@@ -17,11 +17,6 @@ Outside of that, I've shipped six AI products — four Omi agents (3,000+ users 
 - **NEVA Dermatology & Cosmetic Assistants** — Clinical AI scribes on Omi, with notes formatted to match EZDERM EMR templates. 200+ installs combined, 5.0★.
 - **Brain** — Personal AI memory assistant that turns conversations into a searchable knowledge graph. 900+ installs.
 - **J.A.R.V.I.S.** — Voice-activated, context-aware AI companion. 1,100+ installs.
-
-### Tools I reach for
-
-Python · FastAPI · LLMs / Prompt Engineering · Swift · SwiftUI · React Native · Expo · TypeScript · Apple Foundation Models · Ollama · Vision / OCR · EventKit · Live Activities
-
-### Say hi
+- Private Top Secret Projects I can't talk about.
 
 [leulices@gmail.com](mailto:leulices@gmail.com) · [LinkedIn](https://www.linkedin.com/in/euliceslopez) · [Portfolio](https://eulices-portfolio.vercel.app)
