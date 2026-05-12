@@ -1,8 +1,6 @@
 # Eulices Lopez
 
-**AI Engineer at Relitix · Burlington, NC**
-
-I like finding real problems, shipping software against them, and watching what happens in production.
+**AI Systems Architect at Relitix · Burlington, NC**
 
 Most of my recent work lives at the intersection of AI and everyday workflows. At **Graham Dermatology** — a clinic seeing 70 patients a day — I built an AI scribe that became a [customer case study on Omi](https://www.omi.me/blogs/case-studies/how-graham-dermatology-uses-omi-to-transform-medical-scribing-and-patient-care). Same-day chart completion went from 60% to 95%, and note error rate dropped from 15–20% to under 3%.
 
